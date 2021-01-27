@@ -1,1 +1,1 @@
-web: python dailybot.py
+web: python app/dailybot.py
