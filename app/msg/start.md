@@ -1,1 +1,1 @@
-Olá, {{name}}, estou aqui para te lembrar de mandar sua daily todo dia! TODO. SANTO. DIA.
+Привет я БоТиК-КоТиК! Я буду желать тебе доброго утречка 0-0---!'
